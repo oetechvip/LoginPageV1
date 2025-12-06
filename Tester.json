@@ -6,14 +6,14 @@
   "time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
   "time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
   "texts": {
-    "login_btn": "LOGIN",
+    "login_btn": "VERIFIKASI",
     "admin_btn": "ADMIN",
-    "update_btn": "UPDATE NOW",
-    "remember_text": "Show in 24 Hours",
+    "update_btn": "PERBARUI",
+    "remember_text": "Tampilkan di 24 Jam",
     "banned_msg": "DEVICE BANNED\nContact Admin",
     "expired_msg": "Subscription Expired!\nRenew Now",
     "internet_error": "Connection Failed\nCheck Internet",
-    "update_msg": "New Update Available"
+    "update_msg": "PEMBARUAN TERSEDIA"
   },
   "banned_devices": [
     "Banned_device_DPMods",
