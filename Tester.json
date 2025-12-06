@@ -8,11 +8,11 @@
   "texts": {
     "login_btn": "VERIFIKASI",
     "admin_btn": "ADMIN",
-    "update_btn": "PERBARUI",
+    "update_btn": "UNDUH",
     "remember_text": "Tampilkan di 24 Jam",
-    "banned_msg": "DEVICE BANNED\nContact Admin",
-    "expired_msg": "Subscription Expired!\nRenew Now",
-    "internet_error": "Connection Failed\nCheck Internet",
+    "banned_msg": "PERANGKAT DIBLOKIR\nHubungi Admin",
+    "expired_msg": "Langganan Kadaluwarsa!\nPerbarui Sekarang",
+    "internet_error": "Koneksi Error\nPeriksa Internet Anda",
     "update_msg": "PEMBARUAN TERSEDIA"
   },
   "banned_devices": [
