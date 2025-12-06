@@ -12,7 +12,7 @@
     "remember_text": "Tampilkan di 24 Jam",
     "banned_msg": "PERANGKAT DIBLOKIR\nHubungi Admin",
     "expired_msg": "Langganan Kadaluwarsa!\nPerbarui Sekarang",
-    "internet_error": "Koneksi Error\nPeriksa Internet Anda",
+    "internet_error": "Koneksi Bermasalah\nPeriksa Internet Anda",
     "update_msg": "PEMBARUAN TERSEDIA"
   },
   "banned_devices": [
