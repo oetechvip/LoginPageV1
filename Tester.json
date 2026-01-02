@@ -6,8 +6,8 @@
   "time_api": "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Kolkata",
   "time_api_backup": "http://worldtimeapi.org/api/timezone/Asia/Kolkata",
   "texts": {
-    "login_btn": "VERIFIKASI",
-    "admin_btn": "ADMIN",
+    "login_btn": "𝗠 𝗔 𝗦 𝗨 𝗞",
+    "admin_btn": "𝗔 𝗗 𝗠 𝗜 𝗡",
     "update_btn": "UNDUH",
     "remember_text": "Tampilkan di 24 Jam",
     "banned_msg": "PERANGKAT DIBLOKIR\nHubungi Admin",
